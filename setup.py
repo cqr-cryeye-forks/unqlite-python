@@ -27,7 +27,7 @@ unqlite_extension = Extension(
 
 setup(
     name='unqlite',
-    version='0.9.3',
+    version='0.9.4',
     description='Fast Python bindings for the UnQLite embedded NoSQL database.',
     author='Charles Leifer',
     author_email='',
